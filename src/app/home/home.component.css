@@ -1,0 +1,10 @@
+.container {
+  background-color: #6bdae9;
+  border: 5px outset red;
+  color: rgb(204, 50, 22);
+  font-weight: 600;
+  border: none;
+  width: auto;
+  height:auto;
+  padding : 10px;
+}
